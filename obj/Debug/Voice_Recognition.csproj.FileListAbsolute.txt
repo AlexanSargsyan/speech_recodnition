@@ -1,0 +1,10 @@
+F:\C#_Project\Voice_Recognition\bin\Debug\Voice_Recognition.exe.config
+F:\C#_Project\Voice_Recognition\bin\Debug\Voice_Recognition.exe
+F:\C#_Project\Voice_Recognition\bin\Debug\Voice_Recognition.pdb
+F:\C#_Project\Voice_Recognition\obj\Debug\Voice_Recognition.csprojAssemblyReference.cache
+F:\C#_Project\Voice_Recognition\obj\Debug\Voice_Recognition.Form1.resources
+F:\C#_Project\Voice_Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+F:\C#_Project\Voice_Recognition\obj\Debug\Voice_Recognition.csproj.GenerateResource.cache
+F:\C#_Project\Voice_Recognition\obj\Debug\Voice_Recognition.csproj.CoreCompileInputs.cache
+F:\C#_Project\Voice_Recognition\obj\Debug\Voice_Recognition.exe
+F:\C#_Project\Voice_Recognition\obj\Debug\Voice_Recognition.pdb
